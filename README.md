@@ -9,6 +9,6 @@
 
 ## Advanced algorithms
 --Cnn
-
+--Bayesian
 
 ## Term project
