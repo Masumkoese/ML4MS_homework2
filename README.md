@@ -5,7 +5,7 @@
 ## Fundamental algorithms
 -Linear regression
 -Random forest
--Random changess
+
 
 ## Advanced algorithms
 --Cnn
